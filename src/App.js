@@ -81,7 +81,7 @@ function App() {
         <div className="wrapper">
           <div className="screen">
             <div className="input_container">
-              <div class="lcd-background">888888888888</div>
+              <div class="lcd-background">88888888888</div>
               {input !== "" || input === "0" ? (
                 <NumericFormat
                   value={input}
